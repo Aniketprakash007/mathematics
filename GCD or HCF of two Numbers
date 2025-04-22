@@ -4,3 +4,4 @@ return a ;
 else 
 return gcd(b , a%b);
 }
+//hi i M AUrV
